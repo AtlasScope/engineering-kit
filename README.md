@@ -1,5 +1,7 @@
 # Engineering Kit
 
+> **Moved.** This kit now lives in [AtlasScope/agent-kit](https://github.com/AtlasScope/agent-kit/tree/main/kits/engineering-kit), with its history. Install it with `claude plugin marketplace add AtlasScope/agent-kit` then `claude plugin install engineering-kit@agent-kit` (Codex: `codex plugin marketplace add AtlasScope/agent-kit` then `codex plugin add engineering-kit@agent-kit`). This repo is no longer updated.
+
 Engineering skills for AI coding agents, picked for a solo operator who wants agents to use judgment and only interview, test-first or write reports when asked. Every command here runs only when you type it. Four helper skills (`grilling`, `codebase-design`, `domain-modeling`, `writing-for-agents`) stay reachable so the commands can call them, with descriptions narrowed so they do not start on their own.
 
 It is the engineering sibling of [AtlasScope/design-kit](https://github.com/AtlasScope/design-kit). Credits, versions and licenses are in [THIRD_PARTY.md](THIRD_PARTY.md).
